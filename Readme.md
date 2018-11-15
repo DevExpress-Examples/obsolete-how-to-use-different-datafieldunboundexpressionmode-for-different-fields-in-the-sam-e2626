@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsFormsSample/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsSample/Form1.vb))
+* [Form1.Designer.cs](./CS/WindowsFormsSample/Form1.Designer.cs) (VB: [Form1.Designer.vb](./VB/WindowsFormsSample/Form1.Designer.vb))
+<!-- default file list end -->
 # Obsolete: How to use different DataFieldUnboundExpressionMode for different fields in the same PivotGridControl
 
 
